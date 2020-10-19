@@ -28,3 +28,7 @@ First assignment on Onshape was to create the base to a wheel caster by making a
 First assignment on Onshape was to create the base to a wheel caster by making a rectangle, extruding it, and cutting 7 holes in it using linear pattern and other new features. 
 ### Images
 ![Github Caster Axel](Caster-Axel.png)
+## Caster Assembly
+First assignment on Onshape was to create the base to a wheel caster by making a rectangle, extruding it, and cutting 7 holes in it using linear pattern and other new features. 
+### Images
+![Github Caster Assembly](Caster-Assem.png)
