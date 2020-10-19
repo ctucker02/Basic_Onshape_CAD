@@ -5,7 +5,7 @@ First assignment on Onshape was to create the base to a wheel caster by making a
 ### Images
 ![Github Caster Base](Caster-Base.png)
 ## Caster Mount
-Second assignment on Onshape was to create the Mount to a wheel caster by making a square, extruding it, and cutting 4 holes in each corner of the square. 
+Second assignment on Onshape was to create the Mount to a wheel caster by making a square, extruding it, and cutting 4 holes in each corner of the square and a middle hole for the fork. 
 ### Images
 ![Github Caster Mount](Caster-Mount.png)
 ## Caster Fork
