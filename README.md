@@ -12,3 +12,7 @@ First assignment on Onshape was to create the base to a wheel caster by making a
 First assignment on Onshape was to create the base to a wheel caster by making a rectangle, extruding it, and cutting 7 holes in it using linear pattern and other new features. 
 ### Images
 ![Github Caster Fork](Caster-Fork.png)
+## Caster Tire
+First assignment on Onshape was to create the base to a wheel caster by making a rectangle, extruding it, and cutting 7 holes in it using linear pattern and other new features. 
+### Images
+![Github Caster Tire](Caster-Tire.png)
