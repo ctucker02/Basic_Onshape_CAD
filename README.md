@@ -32,3 +32,8 @@ This assignment was to create an axel to connect the wheel with the fork.
 The final assembly for the caster. Added bolts and screws.
 ### Images
 ![Github Caster Assembly](Caster-Assem.png)
+## Caster Base
+First assignment on Onshape was to create the base to a wheel caster by making a rectangle, extruding it, and cutting 7 holes in it using linear pattern and other new features. 
+### Images
+![Github Dowell Pin assignment](Dowell-Pin.png)
+![Github Dowell Pin assignment](Dowell-Assem.png)
